@@ -9,6 +9,7 @@
 7. Continue the conversation by sending follow-up messages
 
 ## Important Notes
-- Responses may take 5-10 seconds to generate
-- Keep questions focused for best results
+- Responses are generated using advanced AI models
+- Typical response time 2-5 seconds
 - Internet connection required for AI processing
+- Conversations are private and secure
